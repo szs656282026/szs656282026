@@ -1,6 +1,6 @@
 - 👋 Hi, I’m suzhisheng@szs656282026
-- 👀 I’m interested in 3D,RPC,math,Linux
-- 🌱 I’m currently learning osgearth,tensorflow
-- 💞️ I’m looking to collaborate on 3D soft base on  c/c++,OpenGL,qt,vscode,Android studio,U3D
+- 👀 I’m interested in 3D earth
+- 🌱 I’m currently learning opengl, osgearth
+- 💞️ I’m looking to collaborate on 3D earth based c++
 - 📫 My email is 656282026@qq.com
 
