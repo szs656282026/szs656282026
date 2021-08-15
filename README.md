@@ -6,3 +6,4 @@
 - //its a gittest
 - //push success
 - //test push token
+- //test git clone https://$token@github.com/zhishengsu/example.git
