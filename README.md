@@ -7,3 +7,5 @@
 - //push success
 - //test push token
 - //test git clone https://$token@github.com/zhishengsu/example.git
+- //  git push --set-upstream origin feature-A
+
