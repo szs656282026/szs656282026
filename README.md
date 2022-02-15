@@ -8,4 +8,6 @@
 - //test push token
 - //test git clone https://$token@github.com/zhishengsu/example.git
 - //  git push --set-upstream origin feature-A
+- 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
+
 
